@@ -1,8 +1,7 @@
 <?php
 include_once "includes/css_js.inc.php";
 include_once "includes/db.inc.php";
-// tests van kristof
-?>
+// testss?>
 <!DOCTYPE html>
 <html lang="en">
 
